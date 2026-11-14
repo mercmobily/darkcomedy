@@ -1,0 +1,208 @@
+{
+  "edition": 5,
+  "year": 2024,
+  "title": "A World of Dark Comedy 5",
+  "rating": "R18+",
+  "tagline": "14 unhinged short films from around the world that demonstrate the devious and deranged depths of the human psyche.",
+  "trailer": "t5bQ6sL7jWE",
+  "screenings": [
+    {
+      "venue": "Luna Leederville",
+      "date": "Fri 15 Nov 2024"
+    },
+    {
+      "venue": "Luna on SX, Fremantle",
+      "date": "Fri 22 Nov 2024"
+    }
+  ],
+  "intermission_after": 7,
+  "films": [
+    {
+      "slug": "off-guard",
+      "title": "Off-Guard",
+      "info": "UK / 10:38",
+      "credits": [
+        "Co-directors, co-writers & co-producers – Yoav Basori, Harry Phillips & Jake Kuhn",
+        "Cast – Gregory David, Levi Mattey, Yoav Basori +"
+      ],
+      "synopsis": [
+        "Paul, an unsuspecting everyman, spirals into paranoia as he becomes convinced he’s the target of some ruthless gangster’s master plan."
+      ],
+      "quote": "“Let’s just call it a special occasion!”"
+    },
+    {
+      "slug": "the-nights-takings",
+      "title": "The Night’s Takings",
+      "info": "VIC / 8:14",
+      "credits": [
+        "Director & Producer – Ahmed Al Aasi",
+        "Script – Colin J Harte",
+        "Cast – Joanna Bakker, Colin J Harte, John Robert Sparring"
+      ],
+      "synopsis": [
+        "A man steals the night’s takings from the bar he works at, to get back at his employer who has been underpaying him for so long."
+      ],
+      "quote": "“Do we have a deal?”"
+    },
+    {
+      "slug": "extreme-gravity",
+      "title": "Extreme Gravity",
+      "info": "Spain / 6:45",
+      "credits": [
+        "Director, Writer & Co-producer – Lorenzo Ayuso",
+        "Co-producers – Diego Kataryniuk, Pablo Campillo, Ivan Saldana",
+        "Cast – Alvaro Marquez & David Blanka"
+      ],
+      "synopsis": [
+        "What would be the worst thing that could happen to you when trying to kill yourself?"
+      ],
+      "quote": "“Why are you naked on the window of the 6th floor?!”"
+    },
+    {
+      "slug": "wetwork",
+      "title": "Wetwork",
+      "info": "WA / 3:43",
+      "credits": [
+        "Director & Writer – Hugh Buttsworth",
+        "Producer – Pamela Grace",
+        "Cast – Ron Arthurs, Jason Robert Lester & Codey Finlay"
+      ],
+      "synopsis": [
+        "The lead engineer of a secret project gets an after-hours visit from the cleaner."
+      ],
+      "quote": "“It looks like you’re skipping town.”"
+    },
+    {
+      "slug": "safe-streets",
+      "title": "Safe Streets",
+      "info": "New Zealand / 5:00",
+      "credits": [
+        "Director & Co-writer – Ross Osarka",
+        "Producer & Co-writer – Alice Gatland"
+      ],
+      "synopsis": [
+        "A police officer and a politician question their relationship to the law when they each commit a crime to satisfy their desires."
+      ],
+      "quote": "“No more crime.”"
+    },
+    {
+      "slug": "autographed-by-god",
+      "title": "Autographed by God",
+      "info": "US / 9:40",
+      "credits": [
+        "Director, Writer & Producer – Bill Doty",
+        "Cast – Joshua Malloy, Mason Dotson, Bill Doty +"
+      ],
+      "synopsis": [
+        "Two missionaries meet a man claiming to be God. What should have been a great encounter turns into a fatal ending."
+      ],
+      "quote": "“How about I give you AIDS?” “What?” “What?”"
+    },
+    {
+      "slug": "a-story-of-theft",
+      "title": "A Story of Theft",
+      "info": "Iran / 15:00",
+      "credits": [
+        "Director, Writer & Producer – Mahdi Hadizadeh",
+        "Cast – Nima Imanzadeh, Morteza Darbeheshti & Hossein Ahmadi"
+      ],
+      "synopsis": [
+        "A tale of two thieves who, in their quest to steal, mistakenly break into the home of a mafia boss."
+      ],
+      "quote": "“With your permission?” “Done.”"
+    },
+    {
+      "slug": "tails-from-the-wild",
+      "title": "Tails from the Wild",
+      "info": "US / 8:45",
+      "credits": [
+        "Director, Writer, Producer & Animator – Mark Villagracia"
+      ],
+      "synopsis": [
+        "In this nature mockumentary, we follow an innocuous koala that becomes the most infamous animal in the Australian Outback."
+      ],
+      "quote": "“…Proving that some of us just really do fall upwards.”"
+    },
+    {
+      "slug": "real-love-baby",
+      "title": "Real Love Baby",
+      "info": "Netherlands / 2:10",
+      "credits": [
+        "Director – Tim Gersen",
+        "Co-producers – Jeffery de Angst & Geertje",
+        "Cast – Jill Tjin, Tim Oortman +"
+      ],
+      "synopsis": [
+        "A couple is going through the miraculous process of giving birth, but what they bring into the world is not what they expected. A metaphor on materialism."
+      ],
+      "quote": "“High heels.”"
+    },
+    {
+      "slug": "meister-der-scheisse",
+      "title": "Meister der Scheisse",
+      "info": "US / 9:11",
+      "credits": [
+        "Director, Writer, Animator & Producer – Anthony Wood"
+      ],
+      "synopsis": [
+        "An animated German expressionist retelling of the origin story of an infamous, historic buffoon."
+      ],
+      "quote": "“That is your son, your heir.”"
+    },
+    {
+      "slug": "kill-mick",
+      "title": "Kill Mick",
+      "info": "WA / 6:29",
+      "credits": [
+        "Director & Writer – Josip Knezevic",
+        "Producer – Ash Kash",
+        "Cast – Adam Dean, Wilson Zou, Mark Alexander & Morgan Phillips"
+      ],
+      "synopsis": [
+        "As far as gangs go, taking out the target should be done without weapons of destruction."
+      ],
+      "quote": "“Is Mick dead?!”"
+    },
+    {
+      "slug": "condom-hunters",
+      "title": "Condom Hunters",
+      "info": "Lebanon / 9:22",
+      "credits": [
+        "Director & Writer – Marc Basset",
+        "Producer – Shadi Rabahi",
+        "Cast – Hiba Chiane, Salma Chalbi, Marc Basset +"
+      ],
+      "synopsis": [
+        "An incident in a pharmacy reveals that a conservative daughter, a married man, and a sexually active young adult have the same goal: buying a condom!"
+      ],
+      "quote": "“Now toughen up and go get the condoms.”"
+    },
+    {
+      "slug": "keepsake",
+      "title": "Keepsake",
+      "info": "QLD / 3:57",
+      "credits": [
+        "Director, Writer & Producer – Trent Ivett",
+        "Cast – Charlotte Grimmer, Ethan Jones & Angel Dixon"
+      ],
+      "synopsis": [
+        "A young woman stumbles upon a special keepsake that she simply cannot let go of."
+      ],
+      "quote": "“What are you doing here?!”"
+    },
+    {
+      "slug": "halmonis-pot",
+      "title": "Halmoni’s Pot",
+      "info": "US / 10:10",
+      "credits": [
+        "Director, Writer & Co-producer – A. Lauren Lee",
+        "Co-producers – Deane Yang, Liz Printz",
+        "Cast – Alexis Rhee, Haulston Mann, Wesley Han +"
+      ],
+      "synopsis": [
+        "Grandma Mee-Yung reluctantly agrees to buy pot for her grandson. But pay full price? Never!"
+      ],
+      "quote": "“Fu’kn’ gray pot heads!”"
+    }
+  ]
+}

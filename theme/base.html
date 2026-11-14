@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<meta name="description" content="$description">
+<link rel="canonical" href="$canonical">
+<meta property="og:type" content="website">
+<meta property="og:title" content="$title">
+<meta property="og:description" content="$description">
+<meta property="og:image" content="$og_image">
+<meta property="og:url" content="$canonical">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/theme/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="/theme/style.css?v=$version">
+$head
+</head>
+<body class="page-$page_class">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" aria-label="$site_name – home">$brand</a>
+    <nav class="site-nav" aria-label="Main">
+$nav
+    </nav>
+  </div>
+</header>
+<main id="main">
+$body
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div>
+      <p class="footer-title">$site_name</p>
+      <p>$tagline. $slogan</p>
+      <p>Presented by Voces Arts Networking Group, a not-for-profit organisation based in Perth, Western Australia.</p>
+    </div>
+    <div>
+      <p class="footer-title">Get in touch</p>
+      <p><a href="mailto:$email">$email</a><br>$phone · $mobile</p>
+    </div>
+    <div>
+      <p class="footer-title">Follow us</p>
+      <p>$social</p>
+    </div>
+  </div>
+  <p class="wrap footer-small">© $year $site_name · <a href="/archive/">Festival archive</a> · <a href="/enter/">Submit your film</a></p>
+</footer>
+</body>
+</html>

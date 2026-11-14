@@ -1,0 +1,205 @@
+{
+  "edition": 6,
+  "year": 2025,
+  "title": "A World of Dark Comedy 6",
+  "trailer": "hEtZkzHyf_8",
+  "screenings": [
+    {
+      "venue": "Luna Leederville",
+      "date": "Fri 14 Nov 2025"
+    },
+    {
+      "venue": "Luna on SX, Fremantle",
+      "date": "Fri 21 Nov 2025"
+    }
+  ],
+  "intermission_after": 7,
+  "films": [
+    {
+      "slug": "true-lies",
+      "title": "True Lies",
+      "info": "France / 8:51",
+      "credits": [
+        "Director – Roni Levkowitz",
+        "Script – Lorette Faivre",
+        "Cast – Alex Boulin, Alizee Lamur & Matthieu Serrano"
+      ],
+      "synopsis": [
+        "In a world of lies, Julie takes her boyfriend Anthony to a specialist. Her last hope to cure him of the strange ailment tormenting him: he has stopped lying."
+      ]
+    },
+    {
+      "slug": "the-box",
+      "title": "The Box",
+      "info": "New Zealand / 5:07",
+      "credits": [
+        "Director & Script – Ashley Pitman",
+        "Producer – Lilly Xiaoxiao Feng",
+        "Cast – James Jennings, Mijean Thompson +"
+      ],
+      "synopsis": [
+        "Two police officers must lie in wait to ambush their target, however their mission isn’t exactly what it seems."
+      ]
+    },
+    {
+      "slug": "just-be-awesome",
+      "title": "Just Be Awesome",
+      "info": "UK / 13:33",
+      "credits": [
+        "Co-directors – Ed Kear & Cringo Williamson",
+        "Script – Henry Playfoot",
+        "Producer – Gina Lyons",
+        "Cast – Spencer Jones, Alice Lowe, Hatty Preston +"
+      ],
+      "synopsis": [
+        "With spiralling debts and a partner at the end of her tether, Alex desperately needs work. An opportunity at an absurdly trendy agency offers a way out. But he’s going to have to play their game if he wants to land the role."
+      ]
+    },
+    {
+      "slug": "the-punt",
+      "title": "The Punt",
+      "info": "VIC / 2:30",
+      "credits": [
+        "Director & Script – Rob La Terra",
+        "Producer – Lawrence Phelan",
+        "Cast – Carole Patullo, Sidney Sylvester Smith & Jese Tuivoavoa"
+      ],
+      "synopsis": [
+        "In a desolate dive bar, a seemingly mundane encounter between a weary patron and a desperate intruder takes a philosophical turn."
+      ]
+    },
+    {
+      "slug": "the-sandwich",
+      "title": "The Sandwich",
+      "info": "QLD / 11:48",
+      "credits": [
+        "Director – Zach Sullivan",
+        "Script – Pierce Johnson",
+        "Producer – Lachlan Mayer",
+        "Cast – Jonathan Wier, Rory Mcdonagh, Jan Mckay +"
+      ],
+      "synopsis": [
+        "A stolen sandwich turns Austin into the office’s most dangerous man."
+      ]
+    },
+    {
+      "slug": "gourmade",
+      "title": "Gourmade",
+      "info": "Canada / 2:45",
+      "credits": [
+        "Director & Co-writer – Samantha MacAdam",
+        "Co-writer – Geoff Anhorn",
+        "Producers – Lisa Kannakko & Luc Frappier",
+        "Cast – Paloma Nuñez & Emma Hunter"
+      ],
+      "synopsis": [
+        "When a late-night emotional eater tries out the latest health craze, a revolutionary smart oven called ‘Gourmade’, she’ll soon find out that delicious meals aren’t the only things this AI oven is dishing out!"
+      ]
+    },
+    {
+      "slug": "stranded",
+      "title": "Stranded",
+      "info": "QLD / 17:01",
+      "credits": [
+        "Co-directors – Reilly Archer-Whelan & Michael Whyntie",
+        "Script – Michael Whyntie",
+        "Producer – Andre Scholz",
+        "Cast – Michelle Brasier & Ben Russell"
+      ],
+      "synopsis": [
+        "When Kelly dumps Brian, his world comes crashing down, again. Just like when their cruise ship sank, leaving them as the only two survivors stranded on a deserted island…"
+      ]
+    },
+    {
+      "slug": "open-2-offers",
+      "title": "Open 2 Offers",
+      "info": "NSW / 4:53",
+      "credits": [
+        "Director – Antony Yee",
+        "Script – Chad Richards",
+        "Producer – Harley Cascun",
+        "Cast – Chad Richards, Anna James, Niall Connon-Jackson +"
+      ],
+      "synopsis": [
+        "At ANY cost. Young couple Steven & Tracey learn this the hard way as they discover when you die is nowhere near as important as WHERE…"
+      ]
+    },
+    {
+      "slug": "nfis",
+      "title": "NFIS",
+      "info": "QLD / 5:41",
+      "credits": [
+        "Co-directors & Co-writers – Tom Pasley & Trent Ivett",
+        "Producer – Trent Ivett",
+        "Cast – Dave Fraser, Tia Faulkner & Gus Pasley"
+      ],
+      "synopsis": [
+        "A grizzled detective follows his hunch all the way to the end to get his sweet reward…"
+      ]
+    },
+    {
+      "slug": "i-owe-you-one",
+      "title": "I Owe You One",
+      "info": "Spain / 11:00",
+      "credits": [
+        "Co-directors – Diego Jiménez & Santi Capuz",
+        "Script – Santi Capuz",
+        "Cast – Anton Lofer & Pablo Castellano"
+      ],
+      "synopsis": [
+        "Raúl and Lucas have been friends their whole lives. One day, Raúl is driving Lucas home… but first, he asks him for a favour. An important one. After all, Lucas owes him."
+      ]
+    },
+    {
+      "slug": "gramps",
+      "title": "Gramps",
+      "info": "US / 3:40",
+      "credits": [
+        "Director, Script & Producer – Boris Schaarschmidt",
+        "Cast – Brynn E. Berg & Timothy Fannon"
+      ],
+      "synopsis": [
+        "Carol wanted to meet her boyfriend in an abandoned house up the road, but instead, she encounters the not-so-urban legend, Old Gramps, a dusty zombie with an appetite for flesh and no sense of humour."
+      ]
+    },
+    {
+      "slug": "miracle-of-christmas",
+      "title": "Miracle of Christmas",
+      "info": "Finland / 12:20",
+      "credits": [
+        "Director & Script – Jarno Harju",
+        "Co-producers – Tuomas Peltonen & Jarno Harju",
+        "Cast – Ari Nieminen & Jarno Harju"
+      ],
+      "synopsis": [
+        "On Christmas Eve, Atte, a family man failed at life, has decided to end it all. However, an unexpected visitor arrives, bringing him a Christmas surprise."
+      ]
+    },
+    {
+      "slug": "game-over",
+      "title": "Game Over",
+      "info": "France / 4:53",
+      "credits": [
+        "Director – Adrian Cacciola",
+        "Script – Yasmine Moutiia",
+        "Producer – Adrian Loure",
+        "Cast – Jean-Yves Lissonet, Lynne Verall & Adrian Rawlins"
+      ],
+      "synopsis": [
+        "Sunday is Scrabble day for an elderly couple. The sunny scene opens with the old man’s hateful inner monologue as he is forced to take part in the game."
+      ]
+    },
+    {
+      "slug": "country-roads",
+      "title": "Country Roads",
+      "info": "UK / 5:17",
+      "credits": [
+        "Director, Script & Producer – Tiffany Gomes",
+        "Cast – Pete Collie, Grace Glen-Wales & Jon Payne"
+      ],
+      "synopsis": [
+        "A couple encounters a body lying in the middle of a country road, facing them with the ultimate conundrum of what to do next."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "edition": 7,
+  "year": 2026,
+  "title": "A World of Dark Comedy 7",
+  "rating": "R18+",
+  "intro": "A World of Dark Comedy 7 is on its way to you!",
+  "blurb": [
+    "This year, we’re bringing you <strong>11 short films from around the world</strong> in one wild, wicked and wonderfully unpredictable journey into the places where filmmakers dare to push boundaries.",
+    "Forget crude or gratuitous. These films are cheeky, clever, provocative and seriously smart!",
+    "Explore stories of identity, belonging and the people we find ourselves connected to – sometimes in the most unexpected ways.",
+    "From vampires and zombies to killers, unconventional romances and curious relationships that really shouldn’t work (but somehow do!), this collection has a little bit of everything.",
+    "<strong>Eleven films. One deliciously twisted journey. A two-hour show you won’t forget.</strong>",
+    "Come along for the ride!"
+  ],
+  "screenings": [
+    {
+      "venue": "Luna Cinema Leederville",
+      "date": "Fri 4 Dec 2026",
+      "time": "6.30pm",
+      "tickets": "https://www.lunapalace.com.au/coming-soon"
+    },
+    {
+      "venue": "Luna on SX, Fremantle",
+      "date": "Fri 11 Dec 2026",
+      "time": "6.30pm",
+      "tickets": "https://www.lunapalace.com.au/coming-soon"
+    }
+  ],
+  "intermission_after": 6,
+  "films": [
+    {
+      "slug": "bite-or-bark",
+      "title": "Bite, or Bark",
+      "info": "Austria / 14:40",
+      "credits": [
+        "Director, Writer & Producer – David B. Carey",
+        "Cast – Lena Rose, Max Zinnenburg +"
+      ],
+      "synopsis": [
+        "Ivy is dog-sitting Charlie for a friend during what’s supposed to be a calm weekend in Vienna — a city she doesn’t know. When Charlie unexpectedly dies, Ivy panics: she can’t reach her friend, and the body needs to get to a vet before it starts to smell. She zips Charlie into a suitcase and heads out, only for a stranger to snatch it and shove her to the ground before she can react. As she picks herself up, her friend finally calls. She answers — “Hello?” — and has no idea where to even begin."
+      ]
+    },
+    {
+      "slug": "the-inheritance",
+      "title": "The Inheritance",
+      "info": "VIC / 6:19",
+      "credits": [
+        "Director & Writer – KURAI",
+        "Cast – Seth Kannof, Georgia Balloch, Joe Lole +"
+      ],
+      "synopsis": [
+        "A dysfunctional family gathers to claim an inheritance nobody wants."
+      ]
+    },
+    {
+      "slug": "killing-time",
+      "title": "Killing Time",
+      "info": "New Zealand / 12:40",
+      "credits": [
+        "Director & Writer – Karl Williams",
+        "Producer – Matt Downey",
+        "Cast – Laine Abrahams, Sam Page +"
+      ],
+      "synopsis": [
+        "When a zombie apocalypse hits, Jessie and Mike finally confess their love, only for Jessie to be bitten while saving Mike’s life. With just five hours left before she turns, she asks him the unthinkable: “If you loved me, you would kill me.” But can he do what she’s asked of him? Even as a zombie, she’s still the love of his life. Can he be the person she desperately needs? A darkly funny horror romance about love’s ultimate sacrifice."
+      ]
+    },
+    {
+      "slug": "just-men",
+      "title": "Just Men",
+      "info": "UK / 7:56",
+      "credits": [
+        "Director & Writer – Timur Almazov",
+        "Producer – Ellie Lomas",
+        "Cast – James Anite & Jack Flammiger"
+      ],
+      "synopsis": [
+        "James and Chris are two best friends. Chris has some troubles with his girlfriend. James doesn’t want to go to his cousin’s funeral alone. Neither of them are mature enough to have an adult conversation about it, but they’ll have to try if they want their friendship to stay intact."
+      ]
+    },
+    {
+      "slug": "the-exterminator",
+      "title": "The Exterminator",
+      "info": "Spain / 7:00",
+      "credits": [
+        "Director, Writer & Co-producer – Esteve Gomez Pena",
+        "Co-producer – Victoria Garcia Bano",
+        "Cast – Attila Kiss, Jon Odri +"
+      ],
+      "synopsis": [
+        "Is there a paranormal entity that has entered your home? There is only one man who can help you."
+      ]
+    },
+    {
+      "slug": "lemon-squeezy",
+      "title": "Lemon Squeezy",
+      "info": "Norway / 11:42",
+      "credits": [
+        "Director & Writer – Anders Teig",
+        "Producer – John Kaare Hoversholm",
+        "Cast – Calle Hellevang-Larsen, Cecilie Svendsen, Sigurd Sele +"
+      ],
+      "synopsis": [
+        "When the hopelessly clumsy Erik accidentally drives his vintage Ford Taunus onto his wife’s head, a simple mishap spirals into a chain of absurd disasters. As panic, bad decisions and crushed faces pile up, an unexpected romance emerges from the wreckage – proving that sometimes true love arrives in the most unlikely ways."
+      ]
+    },
+    {
+      "slug": "untouched",
+      "title": "Untouched",
+      "info": "UK / 12:00",
+      "credits": [
+        "Director & Writer – Simon Drew",
+        "Producers – Arnaldo Stafa & Narjes Golaftab",
+        "Cast – James Arden, Mady Ambus +"
+      ],
+      "synopsis": [
+        "Brendan’s marriage is quietly falling apart. Craving intimacy, he enters a VR world looking for someone to talk to but is matched with Summer, a femme-fatale party girl who eats men like him for breakfast…",
+        "Untouched is a story about lonely people seeking connection anywhere except the place they’re most afraid to look."
+      ]
+    },
+    {
+      "slug": "glory-hole",
+      "title": "Glory Hole",
+      "info": "Spain / 15:00",
+      "credits": [
+        "Director & Producer – Andoni Fernandez",
+        "Cast – Lander Otaola, Veronica Casulleras"
+      ],
+      "synopsis": [
+        "Borja finds a glory hole in a nightclub bathroom. He hesitates, but ultimately decides to try it. After a while, he realises he can’t get his penis out of the hole. At that moment, Borja will have to face his destiny in the most unlikely place, a destiny that seems already written."
+      ]
+    },
+    {
+      "slug": "manus-erectus",
+      "title": "Manus Erectus",
+      "info": "France / 6:47",
+      "credits": [
+        "Director – Leo Natta",
+        "Writers – Leo Natta & Pascal Girardet",
+        "Producers – Leo Natta, Maxime-Oliver Rousseau & Raphael Tavernier",
+        "Cast – Pascal Girardet & Raphael Tavernier"
+      ],
+      "synopsis": [
+        "A man with a somewhat unusual problem goes to see a somewhat unusual doctor.",
+        "Manus Erectus is an absurd chamber comedy, both funny and touching."
+      ]
+    },
+    {
+      "slug": "to-bind-or-not-to-bind",
+      "title": "To Bind, or Not to Bind",
+      "info": "NSW / 9:31",
+      "credits": [
+        "Director, Writer & Co-producer – Qikai Zhou",
+        "Co-producer – Emma Cochram",
+        "Cast – Connor Shepard, Saxon Flannagan +"
+      ],
+      "synopsis": [
+        "Daniel feels overwhelmed by connection and wants to cut off all ties before dying. He enlists Andrew’s help, but every time they try to proceed, Daniel recalls another forgotten obligation — from a gym membership to a Netflix subscription. Their plan dissolves into a loop of delays and deflections."
+      ]
+    },
+    {
+      "slug": "uncle-artoo",
+      "title": "Uncle Artoo",
+      "info": "UK / 10:06",
+      "credits": [
+        "Director & Writer – Zoe Whittaker",
+        "Producers – Charlotte Brownlee, Zoe Whittaker & Lucy Jessica",
+        "Cast – Daniel Weyman, Dylan Smith +"
+      ],
+      "synopsis": [
+        "In his later years, Nosferatu has become a foster carer for children. That seems like a good idea."
+      ]
+    }
+  ]
+}

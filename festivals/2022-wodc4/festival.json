@@ -1,0 +1,187 @@
+{
+  "edition": 4,
+  "year": 2022,
+  "title": "A World of Dark Comedy 4",
+  "tagline": "Oh, the humanity!",
+  "trailer": "cPsV2AVjPfw",
+  "films": [
+    {
+      "slug": "startleplex-cinemas",
+      "title": "StartlePlex Cinemas",
+      "info": "US / 3:12",
+      "credits": [
+        "Director & Writer – Richard Drutman",
+        "Cast – Michael Ford & Izabela Cylc"
+      ],
+      "synopsis": [
+        "A movie theatre’s outrageous animated policy trailer has unintended consequences for a couple’s date night."
+      ]
+    },
+    {
+      "slug": "survivers",
+      "title": "Survivers",
+      "info": "Spain / 6:50",
+      "credits": [
+        "Director & Writer – Carlos Gomez-Trigo",
+        "Cast – Stephanie Margni, Maarten Dannenberg & Alex Moreu"
+      ],
+      "synopsis": [
+        "Natural selection says that only those who adapt will survive. What if humans have become stupid?"
+      ]
+    },
+    {
+      "slug": "the-mps-body",
+      "title": "The MP’s Body",
+      "info": "New Zealand / 14:17",
+      "credits": [
+        "Director, Writers & Cast – Thomas Newman, Nick Davies"
+      ],
+      "synopsis": [
+        "A comedy about dumping dead bodies for the Prime Minister."
+      ]
+    },
+    {
+      "slug": "forced-parenthood",
+      "title": "Forced Parenthood",
+      "info": "US / 4:04",
+      "credits": [
+        "Director & Writer – Michelle Boley",
+        "Co-producers – Taylor Gill & Michelle Boley",
+        "Cast – Donal Thoms-Cappello & Lauran September +"
+      ],
+      "synopsis": [
+        "The Republicans are on the verge of eliminating abortion rights, but don’t worry, they’ve got a plan!"
+      ]
+    },
+    {
+      "slug": "catarina",
+      "title": "Catarina",
+      "info": "France / 16:17",
+      "credits": [
+        "Director & Writer – Pierre Amstutz Roch",
+        "Co-producers – Olivier Berlemont, Emilie Dubois & Emmanuel Gétaz"
+      ],
+      "synopsis": [
+        "Ruined and left by his wife, Francis is ready to try everything he can. With the help of his friend Simon, he decides to kidnap the wife of the man who conned him, Alex. That guy is crazy about Catarina and keeps saying he would do anything for her.",
+        "The duo of good-for-nothings somehow manages to kidnap the young woman.",
+        "The problem is, Catarina is actually a Maltese dog, and they just kidnapped Marie, the dogsitter."
+      ]
+    },
+    {
+      "slug": "two-hitmen",
+      "title": "Two Hitmen",
+      "info": "Australia / 4:32",
+      "credits": [
+        "Directors & Producers – Chris Kibble & Aurora Sice",
+        "Writer & Co-producer – Matthew Priestley",
+        "Cast – Mark Samuel, Alassane Kane & Matthew Priestley"
+      ],
+      "synopsis": [
+        "This is a comedy short film about two hitmen who continually misunderstand their assignment."
+      ]
+    },
+    {
+      "slug": "the-krewd-party",
+      "title": "The Krewd Party",
+      "info": "ACT / 13:05",
+      "credits": [
+        "Director – Alice Taylor",
+        "Co-producers – Bambi Valentine, Yanni Pounartzis & Alice Taylor",
+        "Cast – MC KREWD"
+      ],
+      "synopsis": [
+        "STRAIGHT OUTTA CANBERRA! A single mother of 8 living in the govie flats of Canberra, MC KREWD is a hip hop artist, a philosopher, and a defender of outcasts. When a documentary crew film MC KREWD hosting a BBQ for her neighbours, she reveals an opportunistic plan to get her voice heard."
+      ]
+    },
+    {
+      "slug": "titanic-on-a-plane",
+      "title": "Titanic On A Plane",
+      "info": "New Zealand / 1:45",
+      "credits": [
+        "Director, Writer, Producer & Cast – Ross Ozarka"
+      ],
+      "synopsis": [
+        "What if James Cameron’s Titanic was rebooted, and the ship was changed to be a plane? The answer: something really, really dark."
+      ]
+    },
+    {
+      "slug": "glen",
+      "title": "Glen",
+      "info": "NSW / 9:00",
+      "credits": [
+        "Director – Jeremy Brull",
+        "Writer – Duncan Ragg, Jessica Marshall, Peter Dabro",
+        "Producer – Duncan Ragg, Katherine Shearer",
+        "Cast – Steve Rodgers & Jo Briant"
+      ],
+      "synopsis": [
+        "Deep into his first lockdown, 50-year-old Glen is given a second chance at love… but only if he can summon the courage to come face to Facebook with the perils of online seduction."
+      ]
+    },
+    {
+      "slug": "sneeze-norway",
+      "title": "Sneeze",
+      "info": "Norway / 3:25",
+      "credits": [
+        "Director, Writer & Producer – Alexander Svanåsbakken",
+        "Cast – Solveig Bjerre Pettersen & Pål André Holdahl"
+      ],
+      "synopsis": [
+        "While on a date, a man holds a sneeze back, and the woman gets scared his head will explode."
+      ]
+    },
+    {
+      "slug": "poul",
+      "title": "Poul (The Bridge)",
+      "info": "Iran / 15:00",
+      "credits": [
+        "Director – Vahid Hassan Zadeh",
+        "Producer – Maryam Esmikhani",
+        "Writer – Vahid Hassan Zadeh & Maryam Esmikhani",
+        "Cast – Roya Hosseini, Hafez Esmikhani +"
+      ],
+      "synopsis": [
+        "Fired, a young girl on a bridge looks over. An old guy berates her for considering throwing herself over. Life does not look good. Then there is this young fella who has a shit job & a motorcycle…"
+      ]
+    },
+    {
+      "slug": "broccolli",
+      "title": "Broccoli",
+      "info": "NSW / 7:10",
+      "credits": [
+        "Director & Writer – Gus O’Brien Cavanough",
+        "Producer – Dayle Cogdon",
+        "Cast – Nelson Scott, Samantha Lee, Alexander Spinks"
+      ],
+      "synopsis": [
+        "It’s dinner time, and Blade won’t eat his broccoli. His mum decides to tell him a cautionary tale from her childhood about the time she lost a hand to her father for not eating her own broccoli. Within this story, her father tells another cautionary tale about how he lost his leg to his mother for not eating his broccoli and she tells a similar tale which continues into another and another and another ending with the bizarre genesis of this violent family tradition."
+      ]
+    },
+    {
+      "slug": "there-is-someone-at-home",
+      "title": "There Is Someone At Home",
+      "info": "France / 10:00",
+      "credits": [
+        "Director & Writer – Firode Laurent",
+        "Producer – Lesoult Nicolas",
+        "Cast – Irene Ismailoff, Bamar Kane, Patrick Dross +"
+      ],
+      "synopsis": [
+        "A couple thinks they are alone in their apartment while there is a surprise guest hiding there."
+      ]
+    },
+    {
+      "slug": "the-dead-collectors",
+      "title": "The Dead Collectors",
+      "info": "UK / 12:51",
+      "credits": [
+        "Director – Brendan Cleaves",
+        "Writer – Craig Tuohy",
+        "Cast – Elliot James Langridge & Ivan Kaye +"
+      ],
+      "synopsis": [
+        "During a pandemic in an alternate reality, two men have the job of collecting the deceased."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "A World of Dark Comedy",
+  "short_name": "WoDC",
+  "tagline": "A Dark Comedy International Film Festival",
+  "slogan": "Cinema that pushes wonderful & challenging storytelling.",
+  "url": "https://darkcomedy.com.au",
+  "current_festival": "2026-wodc7",
+  "links": {
+    "vote_form": "https://docs.google.com/forms/d/e/1FAIpQLSfV_9CCtnrGA3SKfexiXNE7ZZ9lOtXvWpV4kyzC9UDHo-Q2mA/viewform?edit_requested=true",
+    "donate": "https://artists.australianculturalfund.org.au/s/project/a2EMn00000InNQv",
+    "film_entry": "https://filmfreeway.com/OverTheFenceComedyFilmFestival/",
+    "venue_form": "https://overthefence.com.au/wp-content/uploads/2025/10/Venue-Info-Reg-form-2025.pdf",
+    "over_the_fence": "https://www.overthefence.com.au/"
+  },
+  "contact": {
+    "name": "Greg Coffey",
+    "role": "Festival Director",
+    "email": "production@darkcomedy.com.au",
+    "phone": "+61 8 9337 6049",
+    "mobile": "0409 678 679",
+    "post": "PO Box 468, Hamilton Hill WA 6963"
+  },
+  "social": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/worldofdarkcomedy/"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/aworldofdarkcomedy/"
+    },
+    {
+      "name": "X / Twitter",
+      "url": "https://twitter.com/OTFcomedyfest"
+    }
+  ]
+}

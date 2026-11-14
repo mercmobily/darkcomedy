@@ -1,0 +1,189 @@
+{
+  "edition": 2,
+  "year": 2019,
+  "title": "A World of Dark Comedy 2",
+  "tagline": "Explore the dark side.",
+  "trailer": "Cpr_V1LIrdA",
+  "films": [
+    {
+      "slug": "writers-workshop",
+      "title": "Writer’s Workshop",
+      "info": "US / 11:28",
+      "credits": [
+        "Director & Writer – Ryan Francis Johnson",
+        "Cast – Grayson Low, Larissa Pruett, Kevin David Lin, Bessie Jo Hill, Nathan Trumbull, Dylan Werth"
+      ],
+      "synopsis": [
+        "Aspiring writer, Jeremy, attends an exclusive writer’s workshop session. A dark, absurdist look at the world of peer review."
+      ],
+      "quote": "“That’s great feedback.”"
+    },
+    {
+      "slug": "refugees-welcome-here",
+      "title": "Refugees Welcome Here",
+      "info": "UK / 2:41",
+      "credits": [
+        "Director – Danny Pattison",
+        "Script – Emilie Sheehan",
+        "Cast – Katherine Bennett-Fox, Janak Jani & Sarah Roy"
+      ],
+      "synopsis": [
+        "Helen Matthews is a proud Londoner and even prouder mother. She is cultured, generous and inclusive. She hosts the book club for goodness’ sake! Helen believes in the EU, farmers markets and the healing powers of a good brew. But above all else, Helen Matthews believes refugees are welcome here… in theory anyway."
+      ],
+      "quote": "“This is the place we booked, right?”"
+    },
+    {
+      "slug": "whatever-it-takes",
+      "title": "Whatever It Takes",
+      "info": "France / 15:34",
+      "credits": [
+        "Director & Script – Pierre Amstutz Roch",
+        "Cast – Lionel Abelanski, Camille Japy, Phillipe Duquesne +"
+      ],
+      "synopsis": [
+        "Stéphane, 50, loses his job. Desperate to get a new job, he makes up a plan with his wife Fiona to take down his rival. Their bad luck and clumsiness won’t make it easy."
+      ],
+      "quote": "“Chéri, I think we should go…”"
+    },
+    {
+      "slug": "the-roommate",
+      "title": "The Roommate",
+      "info": "Canada / 6:38",
+      "credits": [
+        "Director – Cole Hewlett",
+        "Producer – Amanda Verhagen",
+        "Script – Megan Russell",
+        "Cast – Maddie Phillips, Lisa Hughes"
+      ],
+      "synopsis": [
+        "After an exhaustive Craigslist search, wanna-be-Instagram-famous Opal moves in with her odd but amicable roommate Cassandra, whom she soon discovers may be a serial killer, but hey, it’s hard to find cheap rent these days."
+      ],
+      "quote": "“Whereas I, bring a kind of Zen energy to the common rooms…”"
+    },
+    {
+      "slug": "sexellence",
+      "title": "Sexellence",
+      "info": "UK / 8:00",
+      "credits": [
+        "Director & Script – Abiola Ogunbiyi",
+        "Producers – Abubakar Salim & Abiola Ogunbiyi",
+        "Cast – Matthew Canny & Abiola Ogunbiyi"
+      ],
+      "synopsis": [
+        "A young woman will do whatever, and whoever, it takes to find the man of her dreams."
+      ],
+      "quote": "“If you’re not going to be honest then there’s no point, is there…”"
+    },
+    {
+      "slug": "my-ghoul",
+      "title": "My Ghoul",
+      "info": "VIC / 4:56",
+      "credits": [
+        "Director & Writer – Andrew Robb & Jessica Gerger",
+        "Producer – Andrew Robb",
+        "Cast – Jessica Gerger, David Lam +"
+      ],
+      "synopsis": [
+        "Fed up with standing around in corners waiting to scare people, a lonely ghoul decides to leave her desolate damp mansion and go searching suburbia for a man."
+      ],
+      "quote": "“Just lie back and go to a happy place…”"
+    },
+    {
+      "slug": "once-upon-a-time-on-the-roebuck-plains",
+      "title": "Once Upon A Time On The Roebuck Plains",
+      "info": "WA / 4:09",
+      "credits": [
+        "Director & Writer – Harry Jakamarra",
+        "Cast – Lachy French, Sam Barclay & Tim Gamblin"
+      ],
+      "synopsis": [
+        "As night falls on the Roebuck Plains two brothers run a mysterious errand…"
+      ],
+      "quote": "“Well, you gunna say anythin’?”"
+    },
+    {
+      "slug": "sausage",
+      "title": "Sausage",
+      "info": "VIC / 6:30",
+      "credits": [
+        "Director & Producer – Justin Groves",
+        "Writers – An Ambitious Collaboration",
+        "Cast – Frank Kerr, Justin Groves, Chris Vernon +"
+      ],
+      "synopsis": [
+        "A graduate actor’s dreams are crushed when he comes face to face with the reality of the industry. A satiric view of an actors experience on set and how you can never be as prepared as you’d like to be."
+      ],
+      "quote": "“Well, we’ll do it again, and, um… better…”"
+    },
+    {
+      "slug": "setting-them-straight",
+      "title": "Setting Them Straight",
+      "info": "WA / 6:00",
+      "credits": [
+        "Director – Kaleb McKenna",
+        "Writers – Brett Dowson & Kaleb McKenna",
+        "Producer – Brett Dowson",
+        "Cast – Brett Dowson, Sarah McNeill & Greg McNeill"
+      ],
+      "synopsis": [
+        "Having been nurtured and accepted by his parents as a gay man, Joshua finds the courage to confess that he’s actually not."
+      ],
+      "quote": "“What am I gunna tell the blokes at work then…”"
+    },
+    {
+      "slug": "pink-and-quilted",
+      "title": "Pink And Quilted",
+      "info": "France / 11:08",
+      "credits": [
+        "Director, Writer & Producer – Frederic Chane-son",
+        "Cast – Anne Thorens, Cornelie Havas, Anthony Chandellier +"
+      ],
+      "synopsis": [
+        "What could possibly happen to two girls in a graveyard late at night? Especially when they get back from a party, tipsy and loud… Gwen and Dora will learn it the hard way with the most unexpected outcome as they fail to pass their midnight stroll unnoticed."
+      ],
+      "quote": "“Only 3 dollars for a pack of ten at the Dollar Mart. So. Whatever!”"
+    },
+    {
+      "slug": "body-of-knowledge",
+      "title": "Body Of Knowledge",
+      "info": "US / 9:55",
+      "credits": [
+        "Director, Writer & Executive Producer – Craig Holland",
+        "Producer – John Holman",
+        "Cast – Alison Kohlhardt, Todd Hughlett & Craig Holland"
+      ],
+      "synopsis": [
+        "Bored and hungry, Devin struggles to fulfil his new security guard assignment in the hospital morgue. His world turns upside down when a mysterious mortuary worker enters his life."
+      ],
+      "quote": "“So, what are we playing for?” – “Well, if I win I walk out with this body.” – “And, if I win…?”"
+    },
+    {
+      "slug": "katrines-last-words",
+      "title": "Katrine’s Last Words",
+      "info": "US / 2:51",
+      "credits": [
+        "Director & Writer – Janet Torreano Pound",
+        "Co-producers – Johnny Flynn, Mike Cody & Janet Torreano Pound",
+        "Cast – Henrietta Hermelin & Janet Pound"
+      ],
+      "synopsis": [
+        "When ninety-year-old Katrine beckons her daughter to impart her final words, things run amok."
+      ],
+      "quote": "“This face is the cause…”"
+    },
+    {
+      "slug": "the-funeral",
+      "title": "The Funeral",
+      "info": "Norway / 17:54",
+      "credits": [
+        "Director & Writer – Robert Alexander Adams",
+        "Producer – Vidar Tevasvold Aune",
+        "Cast – Siri Schnell Juvik, Stian Hovland Pedersen, Helga Wendelborg"
+      ],
+      "synopsis": [
+        "When a woman reluctantly attends her father’s funeral, uncomfortable secrets emerge, forcing her to finally confront her dysfunctional family."
+      ],
+      "quote": "“That’s what I’ve heard for the last 35 years, that he’d ‘rather have a son!’” – “He said the same thing to me!”"
+    }
+  ]
+}

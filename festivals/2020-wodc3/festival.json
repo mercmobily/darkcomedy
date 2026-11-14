@@ -1,0 +1,273 @@
+{
+  "edition": 3,
+  "year": 2020,
+  "title": "A World of Dark Comedy 3",
+  "tagline": "De-light after times of darkness.",
+  "trailer": "2skiZyVBYqo",
+  "awards": [
+    {
+      "award": "Best Films",
+      "places": [
+        {
+          "film": "a-wreck-in-paradise",
+          "quote": "“That cash? That is for the winner of the challenge.”"
+        },
+        {
+          "film": "rubbish-robbers",
+          "quote": "“Let me kill the bastard!”"
+        },
+        {
+          "film": "perfect-specimen",
+          "quote": "“You know what – I love this!”"
+        }
+      ]
+    },
+    {
+      "award": "Most Popular Films",
+      "places": [
+        {
+          "film": "rubbish-robbers",
+          "quote": "“I just think it’s a little strange that you’re speaking English, when we are all Norwegians.”"
+        },
+        {
+          "film": "a-wreck-in-paradise",
+          "quote": "“You’re a drinker, ain’t ya?”"
+        },
+        {
+          "film": "perfect-specimen",
+          "quote": "“I’m a lawyer, I understand about u… using words.”"
+        }
+      ]
+    }
+  ],
+  "audience_comments": [
+    "All films had me non stop laughing.",
+    "Another great event!!",
+    "Absolutely hilarious. Thank you!",
+    "Good dark humour, and deep. Some over the top.",
+    "Great night! Thank you!",
+    "Very impressive",
+    "Very well made films, well arranged.",
+    "Awesome as always.",
+    "Some get better the 2nd time, but the awkward ones are still awkward.",
+    "Good fun, thanks.",
+    "Loved it!",
+    "Great night, I will never look at a cooked chicken the same way again!",
+    "Great concept, well organised.",
+    "Good length, diverse variety.",
+    "Really, really hard to choose only 3…. excellent!",
+    "This is world class! Well done!",
+    "Some memorable & some shocking.",
+    "Enjoyed! thank you! :)",
+    "Really great selection!",
+    "Darkly funny indeed.",
+    "Come all the time – love it.",
+    "Great stories and a different side of comedy. see you at the Oscars!",
+    "All excellent.",
+    "Great films, hard to choose best.",
+    "Awesome films.",
+    "Great films, Awesome line up! Love, love, love,",
+    "Some brilliant work!!!",
+    "Amazingly good – and I have been before!",
+    "Lovely to enjoy a laugh!",
+    "The level of filmmaking, scripting & performances are extraordinary – all very good."
+  ],
+  "films": [
+    {
+      "slug": "zombies-v-the-cwa",
+      "title": "Zombies v the CWA",
+      "info": "QLD / 8 min",
+      "credits": [
+        "Director, Producer & Writer – Travis Bain",
+        "Cast – Andy Bramble, Marilyn Brack, Andy Bramble +"
+      ],
+      "synopsis": [
+        "A Country Women’s Association meeting is rudely interrupted by a sudden zombie outbreak, and the ladies must take up arms to battle the undead horde."
+      ]
+    },
+    {
+      "slug": "perfect-specimen",
+      "title": "Perfect Specimen",
+      "info": "NSW / 13:00",
+      "credits": [
+        "Directors – Alex Weinress & Simon Lee",
+        "Writer – Simon Lee",
+        "Producers – Catherine Weinress & Alex Weinress",
+        "Cast – Simon Lee, Al Dukes, Eliza Logan"
+      ],
+      "synopsis": [
+        "Edward James is the proud founder, CEO and sole employee of Perfect Specimen, a digital platform via which he sells his sperm to want-to-be mothers looking to birth ‘exceptional quality offspring’. And, whilst he’s succeeded in building a reasonably successful business, his work has come between him and any kind of meaningful relationship with a female partner.",
+        "Thus alone, and increasingly lonely, in turmoil and with an uncertain path ahead, Edward is facing a uniquely potent midlife crisis."
+      ]
+    },
+    {
+      "slug": "dinner-for-two",
+      "title": "Dinner For Two",
+      "info": "WA / 5:43",
+      "credits": [
+        "Director, Producer & Writer – Finnian Williamson",
+        "Cast – Kevin Nguyen"
+      ],
+      "synopsis": [
+        "A man prepares a roast chicken for a date – or so it seems."
+      ]
+    },
+    {
+      "slug": "the-wheel-of-satan",
+      "title": "The Wheel of Satan",
+      "info": "Denmark / 2:58",
+      "credits": [
+        "Director, Producer & Writers – Jacob Fischer Laursen, Asger Kjeldsen, Jes Bergholt Bach & Magnus Lund",
+        "Cast – Jacob Fischer Laursen, Jes Bergholt Bach & Magnus Lund"
+      ],
+      "synopsis": [
+        "Faced by Satan demanding the ultimate sacrifice, three young satanists must make a choice of fatal consequence.",
+        "Photography – Asger Kjeldsen"
+      ]
+    },
+    {
+      "slug": "little-rocker",
+      "title": "Little Rocker",
+      "info": "WA / 6:21",
+      "credits": [
+        "Director & Writer – Finnian Williamson",
+        "Producer – Luke Morgan",
+        "Cast – James Bingham & Kyle Antony +"
+      ],
+      "synopsis": [
+        "A teenage fan accidentally kills his favourite rock star in the backstage bathroom and must decide what to do with the body before the show starts."
+      ]
+    },
+    {
+      "slug": "rubbish-robbers",
+      "title": "Rubbish Robbers",
+      "info": "Norway / 11:00",
+      "credits": [
+        "Director – Anders Teig",
+        "Writer – Linda Bolstad Strønen",
+        "Producer – Marie Fuglestein Lægreid",
+        "Cast – Calle Hellevang-Larsen, Sigurd Sele, Fredrik Hermansen +"
+      ],
+      "synopsis": [
+        "When a couple of badass guys are going to break into a bank, they quickly realise the terrible mistake it was to involve “Premium Idiot” Klaus as part of the group."
+      ]
+    },
+    {
+      "slug": "maelstrom",
+      "title": "Maelstrom",
+      "info": "Spain / 3 min",
+      "credits": [
+        "Director, Producer & Writer – Carlos Gomez-Trigo",
+        "Cast – Antonio Pence & Carlos Canas"
+      ],
+      "synopsis": [
+        "Karl spins the spoon from his coffee. Something spins even faster inside Tony’s head."
+      ]
+    },
+    {
+      "slug": "crack",
+      "title": "Crack",
+      "info": "QLD / 15:35",
+      "credits": [
+        "Directors – Jake Leskarac & Sophie McDuff",
+        "Writer – Sophie McDuff",
+        "Producer – Samantha Ellis",
+        "Cast – Patrick Shearer, Mark Edwards, Bernadette Meenach"
+      ],
+      "synopsis": [
+        "Crack is a black comedy short film about Douglas Hayes, a stoner who works for his father at their family-owned funeral home. When Doug mixes drugs with his work, he finds himself in a precarious situation after his stash finds its way into one of the bodies. Doug goes to extreme lengths in order to retrieve his stash, and thus, hilarity ensues."
+      ]
+    },
+    {
+      "slug": "horn-hubb",
+      "title": "Horn Hubb",
+      "info": "NSW / 5:40",
+      "credits": [
+        "Director & Writer – Antony Yee",
+        "Producer – Bullet Pudding",
+        "Cast – Chris Dawes, Niall Connan-Jackson, Esther Rosenberg +"
+      ],
+      "synopsis": [
+        "Two dedicated intelligence officers have discovered how international terrorists communicate & coordinate. Their findings will arouse more than just suspicion."
+      ]
+    },
+    {
+      "slug": "unleavened-bread",
+      "title": "Unleavened Bread",
+      "info": "France / 9 min",
+      "credits": [
+        "Director & Producer – Wilfried Meance",
+        "Writers – Loic Gaillard & Wilfried Meance",
+        "Cast – Pablo Pauly, Edith Le Merdy, Luc Antoine +"
+      ],
+      "synopsis": [
+        "Vanessa is in love with Rémi. Rémi is in love with Vanessa. Only one damper: his bread won’t rise…"
+      ]
+    },
+    {
+      "slug": "loose-narrative",
+      "title": "Loose Narrative",
+      "info": "US / 4:15",
+      "credits": [
+        "Director, Writer & Producer – Jack McCafferty",
+        "Cast – Jack McCafferty, Kevin Davenport, Kevin Giles"
+      ],
+      "synopsis": [
+        "After his subject tosses him to the side, a disembodied narrator searches to find a new person to narrate."
+      ]
+    },
+    {
+      "slug": "why-so-sirius",
+      "title": "Why So Sirius",
+      "info": "Czech Republic / 15 min",
+      "credits": [
+        "Director & Writer – Karel Šindelář",
+        "Producer – Albert Otevřel",
+        "Cast – Martina Šindelářová, Marie Turková & Tomáš Turek"
+      ],
+      "synopsis": [
+        "No help anywhere, no signal. Too far to reach anywhere on foot. Two scared women, one of whom ran over the husband of the other, will sooner or later have to deal with a situation in which no tested procedures apply. No natural patterns of behaviour. A black comedy about the absurdity of human interaction. About life and death. About cars, misunderstanding and a little bit about LARP."
+      ]
+    },
+    {
+      "slug": "oddballs",
+      "title": "Oddballs",
+      "credits": [
+        "Writer & Director – Lachlan McDonald",
+        "Cast – Aaron Gocs, Paul Tucker, Will Johnston +"
+      ],
+      "synopsis": [
+        "5.01 / Vic)",
+        "When members of the infamous Oddballs motorcycle club smell a rat in their crew, a witch hunt spirals out of control as they start to point fingers at each other."
+      ],
+      "info": "VIC / 5:01"
+    },
+    {
+      "slug": "not-suitable-for-children",
+      "title": "Not Suitable For Children",
+      "info": "Spain / 6:22",
+      "credits": [
+        "Writer, Director & Producer – Daniel Noblom",
+        "Producer – Gustavo Arens",
+        "Cast – Gael Cárdenas, Oriol Rafel, Nuria Florensa"
+      ],
+      "synopsis": [
+        "A sad kid whose favourite toy has been broken by someone, or a man who wants vengeance for the brutal murder of an old friend? Everything depends on the point of view…"
+      ]
+    },
+    {
+      "slug": "a-wreck-in-paradise",
+      "title": "A Wreck in Paradise",
+      "info": "France / 15:34",
+      "credits": [
+        "Writer, Director & Producer – François Zaïdi",
+        "Cast – Bastien Guio, Léa Deneuville, Mamadou Gary +"
+      ],
+      "synopsis": [
+        "A drunken man who crashed his car finds himself in a strange Faustian bar with a stranger set of rules, but he might get the girl…",
+        "Fate is about to offer him his last chance.",
+        "Will he be able to seize it?"
+      ]
+    }
+  ]
+}

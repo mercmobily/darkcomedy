@@ -1,0 +1,141 @@
+{
+  "edition": 1,
+  "year": 2018,
+  "title": "A World of Dark Comedy 1",
+  "tagline": "The darkest shorts down under.",
+  "trailer": "sKgtAWsJ2N8",
+  "films": [
+    {
+      "slug": "shopping-for-one",
+      "title": "Shopping for One",
+      "info": "Sweden / 10:43",
+      "credits": [
+        "Director – Sune Kofod Maglegaard",
+        "Producer – Charlotte B. Moore",
+        "Cast – Charlotte Amalie Kehlet & Sune Roholt Mortensen"
+      ],
+      "synopsis": [
+        "A young woman, Rebekka, has to deal with an ‘event’, and now in a hardware store buys supplies to ‘clean up’. She is interrupted by v. helpful employee Soren who is clearly interested in assisting. But before long she realises she really does need help."
+      ]
+    },
+    {
+      "slug": "trypyophan",
+      "title": "Trypyophan",
+      "info": "WA / 10:37",
+      "credits": [
+        "Co-directors – Augustin Lobet & Keren Schlink",
+        "Script – Keren Schlink",
+        "Co-producers – Joshua Walker & Angela McDonald",
+        "Cast – Dacre Montgomery, Shalom Brune-Franklin, Claudia Ware"
+      ],
+      "synopsis": [
+        "Where do you go when a relationship is cracking because of an addiction… That support group ‘CA’?"
+      ]
+    },
+    {
+      "slug": "dirty-work",
+      "title": "Dirty Work",
+      "info": "Hungary / 9:54",
+      "credits": [
+        "Director – Dániel Füzes",
+        "Script – Ferenc Dobi",
+        "Producer – Geza Kis"
+      ],
+      "synopsis": [
+        "Bar owner Jozsi is in an unpleasant situation. Somebody caused a problem and now he needs a ‘clean-up’. But poor communications can sometimes lead to unusual results."
+      ]
+    },
+    {
+      "slug": "fvcked",
+      "title": "FVcked",
+      "credits": [
+        "Director – Chad Hehr",
+        "Script – Rick Anthony",
+        "Producer – Bryce Schlamp"
+      ],
+      "synopsis": [
+        "Woefully out of their element, old friends Danny and Andrew find themselves in deep shit when they try to buy weed from a man they’ve never met."
+      ]
+    },
+    {
+      "slug": "murderselfie",
+      "title": "#MurderSelfie",
+      "info": "UK / 8:20",
+      "credits": [
+        "Director & Script – Tobias Tobbell",
+        "Producer – Keith Arnold",
+        "Cast – Nikki Runeckles & Karl Hughes"
+      ],
+      "synopsis": [
+        "A young couple update their home invasion nightmare via social media as a quiet night in turns into carnage."
+      ]
+    },
+    {
+      "slug": "the-honeymoon",
+      "title": "The Honeymoon",
+      "info": "UK / 12:35",
+      "credits": [
+        "Director & Writer – Ruth Pickett",
+        "Producer – Square Cat Films",
+        "Cast – Sophie Pelham, Richard Kiess & Abi Roberts"
+      ],
+      "synopsis": [
+        "A newlywed Christian couple go on their honeymoon to what they believe to be a quaint B&B in the Welsh countryside. But the cottage turns out to be a sex den, and events go horribly wrong."
+      ]
+    },
+    {
+      "slug": "grandmas-day",
+      "title": "Grandma’s Day",
+      "info": "Poland / 30:00",
+      "credits": [
+        "Director – Miłosz Sakowski",
+        "Writer – Miłosz Sakowski, Marcin Kubawski",
+        "Producer – Leszek Kopeć, Jerzy Rados",
+        "Cast – Anna Dymna & Mateusz Nędza"
+      ],
+      "synopsis": [
+        "Tomek needs money. He tries to pull a ‘grandparent scam’ on an elderly woman. When it seems that everything is going according to plan, the woman suddenly exposes the scammer and locks him in her apartment. She has a deal for him. Tomek will get the money if he pretends to be her grandson when a social worker comes to visit. If the social worker decides the infirm woman is not under her family’s care, she may find herself being moved to a nursing home…"
+      ]
+    },
+    {
+      "slug": "the-dinner-party",
+      "title": "The Dinner Party",
+      "credits": [
+        "Director & Producer – Chris Ball",
+        "Writers – Kurt Harder, Chris Ball & Onyx Shelton",
+        "Cast – Onyx Shelton, Chris Ball & Camilo Lopez"
+      ],
+      "synopsis": [
+        "Two thieves get the surprise of a lifetime after breaking into the wrong house."
+      ],
+      "info": "Canada / 7:52"
+    },
+    {
+      "slug": "beyond-the-bubble",
+      "title": "Beyond The Bubble",
+      "info": "NSW / 7:05",
+      "credits": [
+        "Director & Producer – Anna Hildebrandt",
+        "Writer & Producer – Cec Parnel",
+        "Cast – Alice Ansara, Jared Jekyll, Michelle Lim Davidson, Maxi Shield"
+      ],
+      "synopsis": [
+        "As rents skyrocket in the inner city, three friends must contemplate life outside their ‘bubble’. Do they dare to go out there?"
+      ]
+    },
+    {
+      "slug": "le-doigt-dhonneur-the-finger",
+      "title": "Le Doigt D’Honneur (The Finger)",
+      "info": "Switzerland / 13:05",
+      "credits": [
+        "Director – Malika Pellicioll",
+        "Script – Elsa Melquioni",
+        "Producer – Flavia Zanon",
+        "Cast – Michel Rossy, Viviana Aliberti, Julien George"
+      ],
+      "synopsis": [
+        "Theodore, Jeanne and Gabriel are gathered in the family living room for their father’s funeral. What could they possibly invent to help them remove his expensive ring, stuck on his middle finger? Each rival in imagination, until…"
+      ]
+    }
+  ]
+}
