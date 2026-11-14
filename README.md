@@ -55,8 +55,12 @@ Until the domain is moved, the site is at `https://<github-user>.github.io/<repo
 
 1. Add a file called `CNAME` at the top of this folder, containing the single line `darkcomedy.com.au`, and push.
 2. In **Settings → Pages**, set the custom domain to `darkcomedy.com.au` and tick **Enforce HTTPS** once it is offered.
-3. At the domain's DNS provider, change only the web records:
+3. Change only the web records in the domain's DNS. The domain uses the old host's name servers (ns1/ns2.syrahost.com),
+   so the records are edited in that host's **cPanel → Zone Editor**, not on the Crazy Domains “DNS Settings” page:
    * `darkcomedy.com.au`, four A records: 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153
+     (replacing the old A record)
+   * `darkcomedy.com.au`, four AAAA records: 2606:50c0:8000::153, 2606:50c0:8001::153, 2606:50c0:8002::153,
+     2606:50c0:8003::153 (replacing the old AAAA record)
    * `www`, CNAME: `<github-user>.github.io`
 
 **Leave the MX and `mail` records alone.** Email for production@darkcomedy.com.au is still handled by the old host.
