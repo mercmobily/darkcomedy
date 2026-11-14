@@ -50,7 +50,7 @@ section.wrap { padding-top: 32px; padding-bottom: 32px; }
 .button-big { font-size: 1.15rem; padding: 14px 30px; }
 
 /* Home */
-.hero { background: #e9e3d6; }
+.hero { background: #05060b; }
 .hero img { width: 100%; max-height: 78vh; object-fit: contain; margin: 0 auto; }
 .intro h1 { max-width: 18ch; }
 .blurb { max-width: 760px; font-size: 1.1rem; }

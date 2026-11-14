@@ -15,7 +15,7 @@ festivals/                one folder per festival, all built the same way
     films/                film pictures, named after the film: bite-or-bark.jpg, bite-or-bark-2.jpg, just-men-poster.jpg
     gallery/              (if any) extra pictures for the archive page
     programme.pdf         (if any) the printed programme
-    print/                (if any) logo files for the printer, not published
+    print/                (if any) logo and artwork files for the printer, not published
 pages/                    About, Contact, Donate, Submit a film (plain HTML)
 theme/                    page shell (base.html), styles (style.css), favicon
 print/                    QR codes for printed material: vote and donate (they never change)
