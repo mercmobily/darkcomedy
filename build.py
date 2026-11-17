@@ -149,6 +149,17 @@ def screenings(f):
     return '<ul class="screenings">' + ''.join(rows) + '</ul>' if rows else ''
 
 
+def rating_mark(f):
+    """The official classification mark for the festival's rating ("R18+" -> theme/rating-r18.png), else the rating as text."""
+    rating = f.get('rating')
+    if not rating:
+        return ''
+    name = 'rating-' + re.sub(r'[^a-z0-9]', '', rating.lower()) + '.png'
+    if (ROOT / 'theme' / name).exists():
+        return f'<img class="rating" src="/theme/{name}" alt="Classification: {esc(rating)}" width="64" height="64">'
+    return f'<span class="rating-text">{esc(rating)}</span>'
+
+
 def trailer(f):
     if not f.get('trailer'):
         return ''
@@ -216,12 +227,12 @@ def build_home():
     body = f'''
 <section class="hero">{img(f["artwork"], f["title"] + " – festival artwork", lazy=False)}</section>
 <section class="wrap intro">
-  <p class="eyebrow">{esc(f["title"])}{" · " + esc(f["rating"]) if f.get("rating") else ""}</p>
+  <p class="eyebrow">{esc(f["title"])}</p>
   <h1>{esc(f.get("intro") or f["title"])}</h1>
   <div class="blurb">{blurb}</div>
 </section>
 <section class="band" id="tickets">
-  <div class="wrap"><h2>Screenings &amp; tickets</h2>{screenings(f)}</div>
+  <div class="wrap"><div class="section-head"><h2>Screenings &amp; tickets</h2>{rating_mark(f)}</div>{screenings(f)}</div>
 </section>
 <section class="wrap">
   <h2>The {len(f["films"])} films</h2>
@@ -247,8 +258,8 @@ def build_programme():
     f = CURRENT
     body = f'''
 <section class="wrap page-head">
-  <p class="eyebrow">{esc(f["title"])}{" · " + esc(f["rating"]) if f.get("rating") else ""}</p>
-  <h1>Programme</h1>
+  <p class="eyebrow">{esc(f["title"])}</p>
+  <div class="section-head"><h1>Programme</h1>{rating_mark(f)}</div>
   <p class="lead">{len(f["films"])} short films, in screening order.</p>
   {screenings(f)}
 </section>
@@ -347,7 +358,7 @@ Try the <a href="/programme/">programme</a>, the <a href="/archive/">archive</a>
 
 def copy_files():
     (OUT / 'theme').mkdir(parents=True)
-    for name in ('style.css', 'favicon.png'):
+    for name in ['style.css', 'favicon.png'] + sorted(p.name for p in (ROOT / 'theme').glob('rating-*.png')):
         shutil.copy(ROOT / 'theme' / name, OUT / 'theme' / name)
     shutil.copytree(ROOT / 'festivals', OUT / 'festivals', ignore=shutil.ignore_patterns('festival.json', 'print'))  # print/ is for printers, not the web
     for extra in ('CNAME',):  # custom-domain file for GitHub Pages, if present

@@ -59,6 +59,9 @@ section.wrap { padding-top: 32px; padding-bottom: 32px; }
 .screenings { list-style: none; padding: 0; margin: 16px 0; display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
 .screening { display: flex; align-items: center; justify-content: space-between; gap: 12px; background: var(--surface-2); border-radius: var(--radius); padding: 16px 18px; border-left: 4px solid var(--accent); }
 .screening p { margin: 0; }
+.section-head { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.rating { width: 64px; height: auto; flex: none; }
+.rating-text { flex: none; font-weight: 700; border: 2px solid currentColor; border-radius: 6px; padding: 2px 8px; }
 .screening-venue { font-weight: 700; font-size: 1.1rem; }
 .screening-when { color: var(--muted); }
 .poster-grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); margin: 16px 0 24px; }

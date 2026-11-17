@@ -69,7 +69,7 @@ Copy the structure of `festivals/2026-wodc7/festival.json`. Fields, in this orde
 | `edition` | yes | `8` |
 | `year` | yes | `2027` |
 | `title` | yes | `"A World of Dark Comedy 8"` |
-| `rating` | no | `"R18+"` |
+| `rating` | no | `"R18+"`. Shown as the official classification mark when `theme/rating-r18.png` (for R18+) exists; otherwise as text |
 | `tagline` | no | One line for the archive (e.g. `"De-light after times of darkness."`) |
 | `intro` | no | Home-page headline, e.g. `"A World of Dark Comedy 8 is on its way to you!"` |
 | `blurb` | no | List of paragraphs for the home page. May contain `<strong>…</strong>`; nothing else |
@@ -130,8 +130,9 @@ In `site.json` set `"current_festival": "2027-wodc8"`. The home page, programme 
 
 ### 5. Things to check every year
 
-* `site.json` → `links.vote_form`: the Google Form for audience voting. Ask the owner whether it is still the right
-  form (it may be a new one each year). The QR code points at `/vote/`, so it never changes.
+* `site.json` → `links.vote_form`: the Google Form for audience voting. Make a new form each year: update the films
+  in `docs/vote-form.gs` and give it to the owner to run (instructions at its top), then put the public link it prints
+  in `site.json`. Last year’s form is usually closed. The QR code points at `/vote/`, so it never changes.
 * `site.json` → `links.venue_form`: the venue registration PDF on overthefence.com.au (it has the year in its name).
 * Ticket links in `screenings` (Luna usually publishes them late; until then use their “coming soon” page).
 * `pages/enter.html`: entry rules (“Completed since …”).
