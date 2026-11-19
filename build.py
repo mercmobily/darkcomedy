@@ -69,9 +69,23 @@ def lookup(key):
     return value
 
 
+QR_CAPTIONS = {'vote': 'Scan to vote', 'donate': 'Scan to donate'}
+
+
+def qr_code(name):
+    """A QR code from print/ (qr-vote points at /vote/, qr-donate at /donate/; they never change), with download links."""
+    caption = QR_CAPTIONS[name]
+    return (f'<figure class="qr"><img src="/print/qr-{name}.svg" alt="QR code for darkcomedy.com.au/{name}/" width="160" height="160">'
+            f'<figcaption>{caption}<br><small>Download for print: <a href="/print/qr-{name}.png" download>PNG</a> · '
+            f'<a href="/print/qr-{name}.svg" download>SVG</a></small></figcaption></figure>')
+
+
 def fill(text):
-    """Replace {{links.donate}}-style placeholders in pages/*.html with values from site.json."""
-    return re.sub(r'\{\{\s*([\w.]+)\s*\}\}', lambda m: esc(str(lookup(m.group(1)))), text)
+    """Replace placeholders in pages/*.html: {{links.donate}}-style values from site.json; {{qr.donate}} with a QR code."""
+    def value(m):
+        key = m.group(1)
+        return qr_code(key[3:]) if key.startswith('qr.') else esc(str(lookup(key)))
+    return re.sub(r'\{\{\s*([\w.]+)\s*\}\}', value, text)
 
 
 def write(path, content):
@@ -241,8 +255,10 @@ def build_home():
 </section>
 <section class="band cta">
   <div class="wrap cta-inner">
-    <div><h2>Vote for your favourite</h2><p>Saw the show? Tell us which film was the most popular.</p><a class="button" href="/vote/">Vote now</a></div>
-    <div><h2>Support the festival</h2><p>Tax-deductible donations keep dark comedy on the big screen.</p><a class="button" href="/donate/">Donate</a></div>
+    <div class="cta-item"><div><h2>Vote for your favourite</h2><p>Saw the show? Tell us which film was the most popular.</p><a class="button" href="/vote/">Vote now</a></div>
+      <img class="qr-mini" src="/print/qr-vote.svg" alt="QR code for darkcomedy.com.au/vote/" width="120" height="120"></div>
+    <div class="cta-item"><div><h2>Support the festival</h2><p>Tax-deductible donations keep dark comedy on the big screen.</p><a class="button" href="/donate/">Donate</a></div>
+      <img class="qr-mini" src="/print/qr-donate.svg" alt="QR code for darkcomedy.com.au/donate/" width="120" height="120"></div>
   </div>
 </section>
 <section class="wrap">
@@ -281,6 +297,7 @@ def build_vote():
   <h1>Vote for the most popular film</h1>
   <p class="lead">To refresh your memory, here are the films in screening order. Then cast your vote!</p>
   <p><a class="button button-big" href="{form}">Vote now</a></p>
+  {qr_code("vote")}
   <ol class="film-order">{order}</ol>
   <p><a class="button" href="{form}">Vote now</a></p>
 </section>'''
@@ -361,6 +378,7 @@ def copy_files():
     for name in ['style.css', 'favicon.png'] + sorted(p.name for p in (ROOT / 'theme').glob('rating-*.png')):
         shutil.copy(ROOT / 'theme' / name, OUT / 'theme' / name)
     shutil.copytree(ROOT / 'festivals', OUT / 'festivals', ignore=shutil.ignore_patterns('festival.json', 'print'))  # print/ is for printers, not the web
+    shutil.copytree(ROOT / 'print', OUT / 'print')  # the vote and donate QR codes: shown on the site and downloadable
     for extra in ('CNAME',):  # custom-domain file for GitHub Pages, if present
         if (ROOT / extra).exists():
             shutil.copy(ROOT / extra, OUT / extra)

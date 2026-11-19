@@ -18,7 +18,7 @@ festivals/                one folder per festival, all built the same way
     print/                (if any) logo and artwork files for the printer, not published
 pages/                    About, Contact, Donate, Submit a film (plain HTML)
 theme/                    page shell (base.html), styles (style.css), favicon, official classification mark (rating-r18.png)
-print/                    QR codes for printed material: vote and donate (they never change)
+print/                    QR codes for the vote and donate pages, shown on the site and downloadable (they never change)
 old-wordpress-urls.json   old WordPress addresses and where they now lead
 build.py                  builds the site into _site/
 docs/                     notes: fixes to the old text, improvements, check of the old site; vote-form.gs makes the vote form
